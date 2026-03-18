@@ -23,5 +23,5 @@ As of the most recent update to this document, no known Open Source Operating Sy
 | &nbsp; | Operating System | Notes |
 | - | - | - |
 | :white_check_mark: | **Ubuntu** | [Planning Discussion](https://lists.ubuntu.com/archives/ubuntu-devel/2026-March/043510.html), [Ubuntu VP Statement](https://x.com/lundukejournal/status/2029198322309681311) |
-
-
+| :white_check_mark: | **Pop!_OS** | [System76 Statement opposing, but planning to implement](https://blog.system76.com/post/system76-on-age-verification) |
+| :white_check_mark: | **elementary OS** | [Founder Statement planning to implement](https://mastodon.social/@danirabbit@mastodon.online/116250766314705297) |
