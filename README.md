@@ -39,6 +39,15 @@ The developers or publishers of these Open Source Operating Systems have made pl
 | :building_construction: | **Midnight BSD** | [License temporarily forbids usage in Brazil, California](https://github.com/MidnightBSD/src?tab=License-1-ov-file), [until implementation finished](https://x.com/midnightbsd/status/2030992394703732872) |
 | :building_construction: | **Fedora** | [Planning Discussion](https://x.com/LundukeJournal/status/2036526650154729543) |
 
+### Uncertain Age Verification Future
+
+The developers or publishers of these open source Operating Systems have made statements which are confusing, nebulous, or suggest that they may (or may not) ship with Age Verification in the future.
+
+| &nbsp; | Operating System | Notes |
+| - | - | - |
+| :question: | **CachyOS** | [Developer statement](https://x.com/LundukeJournal/status/2037217859739542005) |
+| :question: | **MX Linux** | [Developer statement](https://x.com/LundukeJournal/status/2038279978907758664) |
+
 ### Operating Systems Which Have Already Implemented Age Verification
 
 As of the most recent update to this document, no known Open Source Operating Systems have fully complied with legal Age Verification requirements for Brazil or California.
